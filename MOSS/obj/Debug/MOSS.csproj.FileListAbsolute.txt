@@ -1,0 +1,6 @@
+c:\users\nadim\documents\visual studio 2015\Projects\MOSS\MOSS\bin\Debug\MOSS.exe.config
+c:\users\nadim\documents\visual studio 2015\Projects\MOSS\MOSS\bin\Debug\MOSS.exe
+c:\users\nadim\documents\visual studio 2015\Projects\MOSS\MOSS\bin\Debug\MOSS.pdb
+c:\users\nadim\documents\visual studio 2015\Projects\MOSS\MOSS\obj\Debug\MOSS.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2015\Projects\MOSS\MOSS\obj\Debug\MOSS.exe
+c:\users\nadim\documents\visual studio 2015\Projects\MOSS\MOSS\obj\Debug\MOSS.pdb
